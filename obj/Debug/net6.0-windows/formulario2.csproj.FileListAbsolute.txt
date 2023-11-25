@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\formulario2\formulario2\bin\Debug\net6.0-windows\formulario2.exe
+C:\Users\LENOVO\source\repos\formulario2\formulario2\bin\Debug\net6.0-windows\formulario2.deps.json
+C:\Users\LENOVO\source\repos\formulario2\formulario2\bin\Debug\net6.0-windows\formulario2.runtimeconfig.json
+C:\Users\LENOVO\source\repos\formulario2\formulario2\bin\Debug\net6.0-windows\formulario2.dll
+C:\Users\LENOVO\source\repos\formulario2\formulario2\bin\Debug\net6.0-windows\formulario2.pdb
+C:\Users\LENOVO\source\repos\formulario2\formulario2\obj\Debug\net6.0-windows\formulario2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\formulario2\formulario2\obj\Debug\net6.0-windows\formulario2.Form1.resources
+C:\Users\LENOVO\source\repos\formulario2\formulario2\obj\Debug\net6.0-windows\formulario2.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\formulario2\formulario2\obj\Debug\net6.0-windows\formulario2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\formulario2\formulario2\obj\Debug\net6.0-windows\formulario2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\formulario2\formulario2\obj\Debug\net6.0-windows\formulario2.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\formulario2\formulario2\obj\Debug\net6.0-windows\formulario2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\formulario2\formulario2\obj\Debug\net6.0-windows\formulario2.dll
+C:\Users\LENOVO\source\repos\formulario2\formulario2\obj\Debug\net6.0-windows\refint\formulario2.dll
+C:\Users\LENOVO\source\repos\formulario2\formulario2\obj\Debug\net6.0-windows\formulario2.pdb
+C:\Users\LENOVO\source\repos\formulario2\formulario2\obj\Debug\net6.0-windows\formulario2.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\formulario2\formulario2\obj\Debug\net6.0-windows\ref\formulario2.dll
